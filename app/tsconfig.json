@@ -1,0 +1,7 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "allowImportingTsExtensions": false,
+    "lib": ["es6", "dom"]
+  }
+}
